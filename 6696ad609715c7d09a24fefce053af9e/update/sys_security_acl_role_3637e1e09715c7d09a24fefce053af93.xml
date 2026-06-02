@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-02 13:18:46</sys_created_on>
+        <sys_id>3637e1e09715c7d09a24fefce053af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2052376_assign_0_persona.x_2052376_assign_0.admin</sys_name>
+        <sys_package display_value="Assignment" source="x_2052376_assign_0">6696ad609715c7d09a24fefce053af9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Assignment">6696ad609715c7d09a24fefce053af9e</sys_scope>
+        <sys_security_acl display_value="x_2052376_assign_0_persona">fa37e1e09715c7d09a24fefce053af71</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3637e1e09715c7d09a24fefce053af93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-02 13:18:46</sys_updated_on>
+        <sys_user_role display_value="x_2052376_assign_0.admin" name="x_2052376_assign_0.admin">7e96ad609715c7d09a24fefce053afc2</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

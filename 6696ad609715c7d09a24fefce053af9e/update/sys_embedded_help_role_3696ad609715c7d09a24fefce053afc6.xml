@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2052376_assign_0.admin" name="x_2052376_assign_0.admin">7e96ad609715c7d09a24fefce053afc2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-02 13:16:02</sys_created_on>
+        <sys_id>3696ad609715c7d09a24fefce053afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7e96ad609715c7d09a24fefce053afc2</sys_name>
+        <sys_package display_value="Assignment" source="x_2052376_assign_0">6696ad609715c7d09a24fefce053af9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Assignment">6696ad609715c7d09a24fefce053af9e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3696ad609715c7d09a24fefce053afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-02 13:16:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
