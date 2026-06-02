@@ -2,5 +2,6 @@
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="213761e09715c7d09a24fefce053afe3" label="Persona" max_length="40" name="x_2052376_assign_0_persona" type="collection">
         <element label="Surname" max_length="40" name="surname" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Last name" max_length="100" name="last_name" type="string"/>
     </element>
 </database>
